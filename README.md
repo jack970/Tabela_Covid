@@ -1,5 +1,6 @@
 # Tabela Covid 2020
 Tabela com as informações de confirmados e mortes pelo COVID19, por cada estado do Brasil.
+Live Site: :tada: https://tabela-coronavirus.netlify.app/
 #
 1.  **Extrair Repositório:**
 
